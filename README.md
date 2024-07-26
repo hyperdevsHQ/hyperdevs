@@ -1,4 +1,7 @@
-# hyperdevs
-web developers company website for startup
+# hyperdevs official
+hyperDevs official website was developed and designed by [Tahsin](https://github.com/tahsinzidane) and [maruf ovi](https://github.com/iamovi)
 
-[see live](https://tahsinzidane.github.io/hyperdevs/)
+first look
+<img src='https://ik.imagekit.io/hyperdevs24/forweb/first%20look%20of%20hyperdevs%20website.png?updatedAt=1722016696917'>
+
+[visit website]()
